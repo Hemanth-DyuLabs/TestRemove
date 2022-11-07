@@ -1,0 +1,31 @@
+#Ignore UtilLog
+UtilLog.json
+
+#Ignore pycache
+__pycache__
+Utils/__pycache__
+
+#Ignore Error Log
+Errorlog.log
+Errorlog.txt
+
+#Ignore Test file
+test*.py
+
+#Ignore Firmware Downloaded
+Firmwares
+
+#Ignore Others
+Assets/BarCodeId.png
+Assets/dyuQR.png
+Assets/Label*.png
+
+#Ignore Exe files
+dist
+build
+DyuFlasher.spec
+
+
+#ignore
+
+vayuFlasher
